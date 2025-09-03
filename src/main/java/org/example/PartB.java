@@ -18,7 +18,7 @@ public class PartB {
             }
             System.out.println();
         }
-        //Task 77
+        //Task 7
         System.out.println("Task 7");
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {
